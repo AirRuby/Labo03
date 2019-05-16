@@ -27,3 +27,5 @@ x 	Maak gebruik van de git commando's add en commit om het geüpdatete bestand
 x 	Zorg ervoor dat je lokale commits gesynchroniseerd worden op de GitHub
 	repository Labo03.
 x 	Maak een screenshot van de gebruikte commando’s
+
+x	“pulled content from online repo”
